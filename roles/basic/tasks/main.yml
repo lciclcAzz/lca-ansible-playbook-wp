@@ -1,3 +1,0 @@
----
-- name: 'Installing Git Version Ctrl.'
-  apt: pkg=git state=installed
