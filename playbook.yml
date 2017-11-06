@@ -1,5 +1,9 @@
 ---
 - hosts: all
-  become: true
+
   roles: 
-  - basic
+#  - basic
+  - apache
+  - php
+  - mysql
+  - wordpress
