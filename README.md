@@ -1,4 +1,4 @@
-Ansible-playbook-wordpress
+Ansible-playbook-wordpress [LAMP]
 ===============
 [![codecov](https://codecov.io/gl/lciclcAzz/lca-ansible-playbook-wp/branch/develop/graph/badge.svg?token=GJaJd9ZqmE)](https://codecov.io/gl/lciclcAzz/lca-ansible-playbook-wp)
 
